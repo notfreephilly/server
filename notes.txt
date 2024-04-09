@@ -1,0 +1,11 @@
+- Create a new venv
+python3 -m venv venv
+
+- activate venv
+mac: source venv/bin/activate
+
+windows: venv\Scripts\activate
+
+
+- Deactivate
+deactivate
