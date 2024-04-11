@@ -9,3 +9,12 @@ windows: venv\Scripts\activate
 
 - Deactivate
 deactivate
+
+
+
+# backend
+-  activate virtul environment
+- run server / python3 server.py
+
+# frontend
+- npm start
